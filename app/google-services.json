@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "710906238236",
+    "firebase_url": "https://bankdata-94dca.firebaseio.com",
+    "project_id": "bankdata-94dca",
+    "storage_bucket": "bankdata-94dca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710906238236:android:e8abe2943cc2aa15",
+        "android_client_info": {
+          "package_name": "com.example.hl_th.findatm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710906238236-cil2kvfi004gb7fkev2r85gn2ojqhhqf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hl_th.findatm",
+            "certificate_hash": "DE1BE894942171433884AA6A78576118758FC970"
+          }
+        },
+        {
+          "client_id": "710906238236-a7gmbk0gkbe3qvg0umrvvuu038787pmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrwVCn1y-QjOigRRn07Ybc6FMOV0Gfpcc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710906238236-a7gmbk0gkbe3qvg0umrvvuu038787pmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
